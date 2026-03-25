@@ -4,7 +4,7 @@
 **Contact:** walimokhan@gmail.com  
 **Repository:** `Assignment1_AWS_CE`
 
-## 📖 Project Overview
+##  Project Overview
 UniEvent is a highly available, fault-tolerant cloud web application built entirely on Amazon Web Services (AWS). It automatically fetches live event data from the Ticketmaster Discovery API, processes the information, securely stores event media in Amazon S3, and serves a dynamic dashboard to users. 
 
 This project demonstrates production-grade cloud architecture, utilizing isolated private networks, automated scaling, and identity-based security.
