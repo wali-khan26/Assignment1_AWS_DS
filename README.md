@@ -1,4 +1,4 @@
-# UniEvent API Processor ☁️🎫
+# UniEvent API Processor 
 
 **Author:** WALI MUHAMMAD KHAN  
 **Contact:** walimokhan@gmail.com  
@@ -11,7 +11,7 @@ This project demonstrates production-grade cloud architecture, utilizing isolate
 
 ---
 
-## 🏗️ Architecture Components
+##  Architecture Components
 * **Virtual Private Cloud (VPC):** Custom network isolating resources.
 * **Public Subnets:** Hosts the Application Load Balancer (ALB) and NAT Gateway.
 * **Private Subnets:** Hosts the EC2 compute instances securely away from the public internet.
@@ -24,7 +24,7 @@ This project demonstrates production-grade cloud architecture, utilizing isolate
 
 ---
 
-## ⚙️ Step-by-Step Implementation Guide
+##  Step-by-Step Implementation Guide
 
 ### Step 1: Network Provisioning (VPC & Subnets)
 1. Created a custom **VPC**.
@@ -67,7 +67,7 @@ This project demonstrates production-grade cloud architecture, utilizing isolate
 
 ---
 
-## 🧪 Testing and Validation
+##  Testing and Validation
 
 To verify the architecture meets all assignment requirements:
 
